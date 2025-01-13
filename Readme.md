@@ -16,3 +16,10 @@
 - Démarre la VM.
 - Le programme d'installation de Debian s'affiche. Suis les étapes de l'installation (choix de la langue, partitionnement du disque, paramètres réseau, etc.).
 - À la fin de l'installation, le système redémarrera et tu devrais pouvoir accéder à un système Debian prêt à l'emploi.
+
+## Connexion et arrêt du système via la ligne de commande
+- Une fois Debian démarré, connecte-toi à la console en utilisant les identifiants définis pendant l'installation.
+- Pour arrêter la machine virtuelle, utilise la commande suivante dans la console :
+```
+sudo shutdown -h now
+```
