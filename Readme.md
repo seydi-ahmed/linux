@@ -23,3 +23,7 @@
 ```
 sudo shutdown -h now
 ```
+
+## Développeur
+- Prénom NOM: Mouhamed DIOUF
+- email: seydiahmedelcheikh@gmail.com
